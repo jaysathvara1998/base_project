@@ -16,7 +16,7 @@ This Flutter project demonstrates a product listing page that fetches data from 
 ## Flutter Version
 This project is developed with:
 ```
-Flutter 3.10.0 or later
+Flutter 3.27.0
 ```
 
 ---
